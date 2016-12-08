@@ -1,0 +1,10 @@
+c:\users\tobiraak\documents\visual studio 2015\Projects\SharpUpdate\SharpUpdate\bin\Debug\SharpUpdate.dll
+c:\users\tobiraak\documents\visual studio 2015\Projects\SharpUpdate\SharpUpdate\bin\Debug\SharpUpdate.pdb
+c:\users\tobiraak\documents\visual studio 2015\Projects\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.csprojResolveAssemblyReference.cache
+c:\users\tobiraak\documents\visual studio 2015\Projects\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.dll
+c:\users\tobiraak\documents\visual studio 2015\Projects\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.pdb
+C:\Users\tobiraak\Documents\Visual Studio 2015\Projects\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.Properties.Resources.resources
+C:\Users\tobiraak\Documents\Visual Studio 2015\Projects\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.SharpUpdateAcceptForm.resources
+C:\Users\tobiraak\Documents\Visual Studio 2015\Projects\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.SharpUpdateDownloadForm.resources
+C:\Users\tobiraak\Documents\Visual Studio 2015\Projects\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.SharpUpdateInfoForm.resources
+C:\Users\tobiraak\Documents\Visual Studio 2015\Projects\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.csproj.GenerateResource.Cache
